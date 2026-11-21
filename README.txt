@@ -3,3 +3,4 @@ MALKE Finishing Works - website
 2. Create a free form at formspree.io, paste the URL into formEndpoint.
 3. Replace Unsplash images with the client's own photos (put them in /assets).
 4. Upload the whole folder to any static host (Netlify, Cloudflare Pages, cPanel).
+   to check visit  https://bereket94.github.io/MALKE-Finishing-Works/
